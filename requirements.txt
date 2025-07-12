@@ -1,0 +1,10 @@
+langchain
+ipykernel
+python-dotenv
+langchain_community
+beautifulsoup4
+langchain_openai
+langchain_huggingface
+sentence_transformers
+chromadb
+numpy==1.26.4
